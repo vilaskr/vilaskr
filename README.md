@@ -82,7 +82,7 @@ I'm a Class 12 graduate with a builder's mindset — passionate about creating t
 ## GitHub Stats
 
 <!-- REPLACE: Change YOUR_GITHUB_USERNAME to your actual GitHub username -->
-
+<!--
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vilaskr&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=555555&text_color=333333)
@@ -92,7 +92,7 @@ I'm a Class 12 graduate with a builder's mindset — passionate about creating t
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vilaskr&hide_border=true)
 
 </div>
-
+-->
 ---
 
 > *"The best way to predict the future is to build it."* — Alan Kay
